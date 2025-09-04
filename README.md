@@ -1,2 +1,5 @@
 # PF-Lab03-25K-0863
-Ramiq Ehsan. 19 year old student of Computer Science at FAST-NUCES. Interested in python, c++, Java, and back-end programming.
+Hello, my name is Ramiq Ehsan. </br>
+I am a student of BSCS at FAST NUCES. </br>
+My interest is mainly in **Back-end Developement** and I am mainly interested in **Python, C++, and Java**
+
