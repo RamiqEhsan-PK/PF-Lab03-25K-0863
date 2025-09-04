@@ -9,4 +9,8 @@ My interest is mainly in **Back-end Developement**
 - _Python_
 - _JavaScript_
 
-1.
+## My Educational Background:
+
+1. **O LEVELS** from _DHACSS Creek Campus_
+2. **A LEVELS** from _Eden college_
+   
