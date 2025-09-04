@@ -1,8 +1,7 @@
 
 # PF-Lab03-25K-0863
-Hello, my name is Ramiq Ehsan. </br> </br>
-I am a student of BSCS at FAST NUCES. </br> <br/>
-My interest is mainly in **Back-end Developement**
+Hello, my name is Ramiq Ehsan. I am a student of BSCS at FAST NUCES. </br> <br/>
+My interest is mainly in **Back-end Developement and Artifical Intelligence**
 
 ## My languages of Interest are:
 - _C++_
